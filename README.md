@@ -1,2 +1,3 @@
-# simple-data-visualizer-y3sq
-Automated issue comment bot repository
+# Simple Data Visualizer Y3Sq
+
+Automated issue comment bot repository.
